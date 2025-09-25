@@ -40,7 +40,7 @@ frozone-api/
 INSTALAÇÃO E EXECUÇÃO
 ----------------------
 1. Clone o repositório:
-   git clone https://github.com/Renzanx21/API-basica-do-FROZONE.git
+   git clone https://github.com/Renanzzn7/API-basica-do-FROZONE.git
 
 2. Instale as dependências:
    npm install
@@ -94,3 +94,4 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 LICENÇA
 --------
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
