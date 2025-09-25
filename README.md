@@ -55,12 +55,12 @@ INSTALAÇÃO E EXECUÇÃO
 
 ENDPOINTS EXEMPLARES
 ---------------------
-Método | Rota           | Descrição
--------|----------------|----------------------------
-GET    | /frozone       | Lista todos os dados
-POST   | /frozone       | Cria um novo registro
-PUT    | /frozone/:id   | Atualiza um registro
-DELETE | /frozone/:id   | Remove um registro
+Método | Rota                   | Descrição
+-------|------------------------|----------------------------
+GET    | /                      | Boas vindas
+POST   | /frozone               | Dados completos
+PUT    | /frozone/habilidades   | Apenas habilidades
+DELETE | /frozone/frases        | Remove um registro
 
 ------------------------------------------------------------
 
@@ -94,4 +94,5 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests
 LICENÇA
 --------
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
